@@ -1,2 +1,2 @@
 # GitTes
-Git Commits test
+## Introduction to GitTest
